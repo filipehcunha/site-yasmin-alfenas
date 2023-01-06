@@ -1,0 +1,130 @@
+*{
+    font-family: proxima-nova, sans-serif;
+    color: white;
+}
+body{
+    background: black;
+}
+header{
+    height: 5em;
+}
+.logo h1{
+    font-size: 2em;
+}
+.logo p{
+    font-size: 0.9em;
+    text-align: center;
+    margin-top: -0.9em;
+}
+.logo{
+    margin: 2em;
+    width: 15em;
+}
+.container-1 h1{
+    text-align: center;
+    line-height: 1.5em;
+}
+.container-1 h3{
+    text-align: center;
+    margin-top: 2em;
+    font-weight: 400;
+}
+.container-1{
+    margin-top: 6em;
+}
+.profile button{
+    border-radius: 10px 0px 10px;
+    font-weight: bold;
+    padding: 1em;
+    width: 11em;
+    border: solid black;
+    background: rgb(229, 9, 20);
+    cursor: grab;
+}
+.profile a{
+    text-decoration: none;
+}
+.profile{
+    display: flex;
+    margin-top: 2em;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.profile i{
+    color: white;
+    margin-top: 0.7em;
+}
+#apresentacao{
+    margin: 8em;
+    padding: 1em;
+   
+}
+#apresentacao h3{
+    line-height: 1.5em;
+    font-size: x-large;
+}
+#foto-apresentacao {
+    width: 16em;
+    height: fit-content;
+}
+#apresentacao p{
+    width: 20em;
+    line-height: 1.8em;
+    font-weight: 400;
+}
+.container-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#virada{
+    margin-top: -3em;
+    padding: 1em;
+}
+#virada h3{
+    line-height: 1.5em;
+    font-size: x-large;
+}
+#foto-virada{
+    width: 16em;
+    height: fit-content;
+}
+#virada p{
+    width: 20em;
+    line-height: 1.8em;
+    font-weight: 400;
+}
+#virada-2 p{
+    color: #abababcc;
+    font-size: small;
+    text-align: center;
+}
+#virada2{
+display: none;
+}
+#virada2_BG{
+    display: none;
+    width: 52em;
+    background: rgb(62 62 62 / 30%);
+    height: 26em;
+    margin: auto;
+    margin-top: -23em;
+}
+#virada2_BG i{
+    margin-left: 33em;
+    margin-top: 0.5em;
+    cursor: grab;
+}
+#fotoVirada2{
+    padding: 2em;
+    margin: auto;
+    position: relative;
+    top: 2em;
+    margin-left: -51em;
+}
