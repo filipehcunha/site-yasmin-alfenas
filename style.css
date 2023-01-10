@@ -124,7 +124,7 @@ display: none;
     cursor: grab;
 }
 #fotoVirada2{
-    padding: 2em;
+   /* padding: 2em;*/
     margin: auto;
     position: relative;
     top: 2em;
@@ -149,9 +149,9 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        padding: 1em;
+        /*padding: 1em;*/
         margin-left: -49.8em;
-        width: 20em;
+        width: 24em;
     }
     #virada2_BG{
         width: auto;
@@ -202,7 +202,7 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        padding: 1em;
+        /*padding: 1em;*/
         margin-left: -51.8em;
         width: 25em;
     }
@@ -241,7 +241,7 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        padding: 1em;
+        /*padding: 1em;*/
         margin-left: -51.8em;
         width: 25em;
     }
@@ -283,7 +283,7 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        padding: 1em;
+        /*padding: 1em;*/
         margin-left: -51.8em;
         width: 25em;
     }
