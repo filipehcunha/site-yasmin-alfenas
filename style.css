@@ -161,6 +161,10 @@ display: none;
         position: relative;
         margin-top: -23em;
         overflow-x: hidden;
+        border-width: 1px;
+        border-radius: 10px;
+        border-color: gray;
+        border-style: outset;
     }
     #virada2_BG i {
         margin-left: 33em;
