@@ -173,6 +173,10 @@ display: none;
         margin-top: 1.5em;
         cursor: grab;
     }
+    #foto-virada{
+        width: 10em;
+        height: 5em;
+    }
 }
 /*Dispositivo Móvel M*/
 @media (min-width:375px){
