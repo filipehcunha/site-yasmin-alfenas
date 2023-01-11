@@ -317,26 +317,7 @@ display: none;
         flex-direction: column;
     }
     #virada2_BG{
-        display: none;
-        width: 52em;
-        background: rgb(62 62 62 / 30%);
-        height: 26em;
-        margin: auto;
-        margin-top: -23em;
-        overflow-x: hidden;
-        overflow-y: hidden;
-    }
-    #virada2_BG i{
-        margin-left: 33em;
-        margin-top: 0.5em;
-        cursor: grab;
-    }
-    #fotoVirada2{
-        padding: 2em;
-        margin: auto;
-        position: relative;
-        top: 2em;
-        margin-left: -51em;
+        margin-left: 13em;
     }
 }
 /*Telas pequenas, Laptops*/
