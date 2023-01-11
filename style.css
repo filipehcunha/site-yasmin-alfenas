@@ -325,6 +325,7 @@ display: none;
         /*margin-left: 13em;*/
         margin-top: -21em;
         left: 11em;
+        display: none;
         overflow-x: hidden;
     }
     #virada2_BG i {
