@@ -290,7 +290,7 @@ display: none;
     }
 }
 /*Ipads, Tablets*/
-@media (min-width:768px){
+@media (min-width:768px),(min-width:800px){
     .logo {
         margin: auto;
         width: 15em;
