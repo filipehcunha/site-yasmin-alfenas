@@ -92,8 +92,8 @@ header{
     font-size: x-large;
 }
 #foto-virada{
-    width: 16em;
-    height: fit-content;
+    width: 10em;
+    height: 5em;
 }
 #virada p{
     width: 20em;
@@ -123,13 +123,13 @@ display: none;
     margin-top: 0.5em;
     cursor: grab;
 }
-/*#fotoVirada2{*/
-   /* padding: 2em;*/
-    /*margin: auto;
+#fotoVirada2{
+    padding: 2em;
+    margin: auto;
     position: relative;
     top: 2em;
     margin-left: -51em;
-}*/
+}
 
 /*Dispositivo Móvel P*/
 @media (min-width:320px){
@@ -149,35 +149,27 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        /*padding: 1em;*/
-        height: 7em;
-        margin: auto;
-        margin-left: -45.8em;
-        width: 14em;
+        height: fit-content;
+        margin-left: -49.8em;
+        width: 18em;
+        margin-top: 7em;
+        border-radius: 0.8em;
     }
     #virada2_BG{
         width: auto;
-        background: rgb(0 0 0 / 90%);
+        background: rgb(0 0 0 / 91%);
         height: 26em;
-        margin: auto;
         position: relative;
-        margin-top: -23em;
+        margin: auto;
+        margin-top: -21em;
         overflow-x: hidden;
-        border-width: 1px;
-        border-radius: 10px;
-        border-color: gray;
-        border-style: outset;
     }
     #virada2_BG i {
         margin-left: 33em;
         position: relative;
-        left: -20em;
+        left: -19em;
         margin-top: 1.5em;
         cursor: grab;
-    }
-    #foto-virada{
-        width: 10em;
-        height: 5em;
     }
 }
 /*Dispositivo Móvel M*/
@@ -204,15 +196,15 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        /*padding: 1em;*/
-        height: 7em;
-        margin: auto;
-        margin-left: -45.8em;
-        width: 14em;
+        height: fit-content;
+        margin-left: -49.8em;
+        width: 18em;
+        margin-top: 7em;
+        border-radius: 0.8em;
     }
     #virada2_BG{
         width: auto;
-        background: rgb(0 0 0 / 90%);
+        background: rgb(0 0 0 / 91%);
         height: 26em;
         position: relative;
         margin: auto;
@@ -245,18 +237,18 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        /*padding: 1em;*/
-        height: 7em;
-        margin: auto;
-        margin-left: -45.8em;
-        width: 14em;
+        height: fit-content;
+        margin-left: -49.8em;
+        width: 18em;
+        margin-top: 7em;
+        border-radius: 0.8em;
     }
     #virada2_BG{
         width: auto;
-        background: rgb(0 0 0 / 90%);
+        background: rgb(0 0 0 / 91%);
         height: 26em;
-        margin: auto;
         position: relative;
+        margin: auto;
         margin-top: -21em;
         overflow-x: hidden;
     }
@@ -289,15 +281,15 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        /*padding: 1em;*/
-        height: 7em;
-        margin: auto;
-        margin-left: -45.8em;
-        width: 14em;
+        height: fit-content;
+        margin-left: -49.8em;
+        width: 18em;
+        margin-top: 7em;
+        border-radius: 0.8em;
     }
     #virada2_BG{
         width: auto;
-        background: rgb(0 0 0 / 90%);
+        background: rgb(0 0 0 / 91%);
         height: 26em;
         position: relative;
         margin: auto;
@@ -345,8 +337,10 @@ display: none;
         margin: auto;
         position: relative;
         top: 2em;
-        margin-left: -51em;
         width: 49em;
+        margin-left: -51em;
+        height: fit-content;
+        border-radius: 0.8em;
     }
     #virada2_BG{
         display: none;
@@ -393,8 +387,10 @@ display: none;
         margin: auto;
         position: relative;
         top: 2em;
-        margin-left: -51em;
         width: 49em;
+        margin-left: -51em;
+        height: fit-content;
+        border-radius: 0.8em;
     }
     #virada2_BG{
         display: none;
