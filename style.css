@@ -130,7 +130,14 @@ display: none;
     top: 2em;
     margin-left: -51em;
 }
-
+#zoomSpan {
+    color: white;
+    position: absolute;
+    margin-top: 22em;
+    color: #abababcc;
+    font-size: small;
+    margin-left: 5.7em;
+}
 /*Dispositivo Móvel P*/
 @media (min-width:320px){
     .logo {
