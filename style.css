@@ -309,7 +309,38 @@ display: none;
     .container-3{
         flex-direction: column;
     }
-   
+    #fotoVirada2{
+        height: 6em;
+        margin-left: -47.8em;
+        width: 15em;
+        /* margin: 0em; */
+        margin-top: 7em;
+        border-radius: 0.8em;
+    }
+    #virada2_BG{
+        width: auto;
+        background: rgb(0 0 0 / 91%);
+        height: 26em;
+        position: relative;
+        margin: auto;
+        margin-top: -21em;
+        overflow-x: hidden;
+    }
+    #virada2_BG i {
+        margin-left: 33em;
+        position: relative;
+        left: -19em;
+        margin-top: 1.5em;
+        cursor: grab;
+    }
+    #zoomSpan{
+        color: white;
+        position: absolute;
+        margin-top: 22em;
+        color: #abababcc;
+        font-size: small;
+        margin-left: 2.7em;
+    }
 }
 /*Telas pequenas, Laptops*/
 @media (min-width:1024px){
