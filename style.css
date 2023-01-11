@@ -173,6 +173,14 @@ display: none;
         margin-top: 1.5em;
         cursor: grab;
     }
+    #zoomSpan{
+        color: white;
+        position: absolute;
+        margin-top: 22em;
+        color: #abababcc;
+        font-size: small;
+        margin-left: 2.7em;
+    }
 }
 /*Dispositivo Móvel M*/
 @media (min-width:375px){
@@ -222,6 +230,14 @@ display: none;
         margin-top: 1.5em;
         cursor: grab;
     }
+    #zoomSpan{
+        color: white;
+        position: absolute;
+        margin-top: 22em;
+        color: #abababcc;
+        font-size: small;
+        margin-left: 2.7em;
+    }
 }
 /*Dispositivo Móvel G*/
 @media (min-width:425px){
@@ -263,6 +279,14 @@ display: none;
         left: -19em;
         margin-top: 1.5em;
         cursor: grab;
+    }
+    #zoomSpan{
+        color: white;
+        position: absolute;
+        margin-top: 22em;
+        color: #abababcc;
+        font-size: small;
+        margin-left: 2.7em;
     }
 }
 /*Ipads, Tablets*/
@@ -308,6 +332,14 @@ display: none;
         left: -19em;
         margin-top: 1.5em;
         cursor: grab;
+    }
+    #zoomSpan{
+        color: white;
+        position: absolute;
+        margin-top: 22em;
+        color: #abababcc;
+        font-size: small;
+        margin-left: 2.7em;
     }
 }
 /*Telas pequenas, Laptops*/
@@ -362,6 +394,9 @@ display: none;
         cursor: grab;
         left: 0em;
     }
+    #zoomSpan{
+        display: none;
+    }
 }
 /*Telas grandes, Desktops*/
 @media (min-width:1200px){
@@ -411,6 +446,9 @@ display: none;
         margin-top: 0.5em;
         cursor: grab;
         left: 0em;
+    }
+    #zoomSpan{
+        display: none;
     }
 }
 
