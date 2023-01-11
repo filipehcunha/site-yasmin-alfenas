@@ -322,7 +322,7 @@ display: none;
         background: rgb(0 0 0 / 91%);
         height: 26em;
         position: relative;
-        margin: auto;
+        margin-left: 13em;
         margin-top: -21em;
         overflow-x: hidden;
     }
