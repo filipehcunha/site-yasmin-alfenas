@@ -149,23 +149,25 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        height: fit-content;
-        margin-left: -49.8em;
-        width: 18em;
+        height: 6em;
+        margin-left: -47.8em;
+        width: 15em;
         margin-top: 7em;
         border-radius: 0.8em;
     }
     #virada2_BG{
-        width: auto;
+        width: 21em;
         background: rgb(0 0 0 / 91%);
-        height: 26em;
+        height: 22em;
         position: relative;
         margin: auto;
-        margin-top: -21em;
+        margin-bottom: 2em;
+        margin-top: 2em;
+        margin-top: -19em;
         overflow-x: hidden;
     }
     #virada2_BG i {
-        margin-left: 33em;
+        margin-left: 31em;
         position: relative;
         left: -19em;
         margin-top: 1.5em;
@@ -196,23 +198,25 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        height: fit-content;
-        margin-left: -49.8em;
-        width: 18em;
+        height: 6em;
+        margin-left: -47.8em;
+        width: 15em;
         margin-top: 7em;
         border-radius: 0.8em;
     }
     #virada2_BG{
-        width: auto;
-        background: rgb(0 0 0 / 91%);
-        height: 26em;
-        position: relative;
-        margin: auto;
-        margin-top: -21em;
-        overflow-x: hidden;
+        width: 21em;
+    background: rgb(0 0 0 / 91%);
+    height: 22em;
+    position: relative;
+    margin: auto;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    margin-top: -19em;
+    overflow-x: hidden;
     }
     #virada2_BG i {
-        margin-left: 33em;
+        margin-left: 31em;
         position: relative;
         left: -19em;
         margin-top: 1.5em;
@@ -237,9 +241,10 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        height: fit-content;
-        margin-left: -49.8em;
-        width: 18em;
+        height: 6em;
+        margin-left: -47.8em;
+        width: 15em;
+        /* margin: 0em; */
         margin-top: 7em;
         border-radius: 0.8em;
     }
@@ -281,9 +286,10 @@ display: none;
         flex-direction: column;
     }
     #fotoVirada2{
-        height: fit-content;
-        margin-left: -49.8em;
-        width: 18em;
+        height: 6em;
+        margin-left: -47.8em;
+        width: 15em;
+        /* margin: 0em; */
         margin-top: 7em;
         border-radius: 0.8em;
     }
